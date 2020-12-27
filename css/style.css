@@ -1,0 +1,126 @@
+body, html { 
+		margin: 0px;
+		padding: 0px;
+		font-family: 'Montserrat', sans-serif;
+
+	}
+
+/* Home Css */
+
+	.right-side .home {
+		padding: 190px 100px;
+		text-align: center;
+	}
+	.right-side .home h2 {
+		font-size: 60px;
+		margin-bottom: 10px;
+		padding: 0px;
+		color: #333;
+	}
+
+	.right-side .home p {
+		font-size: 18px;
+		margin-bottom: 10px;
+		padding: 0px;
+		color: #777;
+		margin-bottom: 30px;
+	}
+
+/* Images Css */
+
+	
+
+/* About Css */
+
+	.right-side .about {
+		padding: 30px 20px;
+	}
+
+	.right-side .about h3{
+		font-size: 30px;
+		margin: 0px 0px 30px 0px;
+		padding: 0px;
+		color: #666;
+		font-weight: 400;
+		text-align: left;
+	}
+
+	.right-side .about p{
+		font-size: 15px;
+		margin-bottom: 30px;
+		padding: 0px;
+		color: #666;
+		font-weight: 400;
+		text-align: left;
+		line-height: 22px;
+	}
+
+/* About-Work Css */
+
+	
+/* Contact Me Css */
+
+	
+	.right-side .contact form input[type=text], textarea {
+		width: 100%;
+		padding: 20px;
+		margin: 8px 0;
+		border: 1px solid #ccc;
+		box-sizing: border-box;
+		border-radius: 1px;
+		font-family: "Montserrat";
+	}
+
+	.right-side .contact form button {
+		color: #333;
+		padding: 20px 30px;
+		margin: 8px 0;
+		border: none;
+		text-transform: uppercase;
+		background-color: #f1f1f1;
+		border-radius: 1px;
+		font-family: "Montserrat";
+		cursor: pointer;
+		font-size: 16px;
+	}
+
+	.right-side .contact form button:hover {
+		background-color: #333;
+		color: #fff;
+	}
+
+/* Footer Css */
+
+	.right-side .footer {
+		padding: 30px 20px;
+		background-color: #f1f1f1;
+		text-align: center;
+		height: 150px;
+	}
+
+	.social-media {
+		margin: 20px 0px;
+	}
+
+	.right-side .social-media i{
+		color: #666;
+		font-size: 25px;
+		margin: 10px 5px;
+		padding: 5px;
+		cursor: pointer;
+		transition: 0.4s;
+	}
+
+	.right-side .social-media i:hover{
+		color: #000;
+	}
+	
+	.right-side .footer p{
+		color: #333;
+		font-size: 16px;
+		margin: 10px 5px;
+		color: #333; 
+	}
+
+
+	
